@@ -1,0 +1,11 @@
+C:\MrLiu.Net\LearnAspnetCore\LearnAspnetCore.WebApplication\bin\Debug\netcoreapp2.0\LearnAspnetCore.WebApplication.deps.json
+C:\MrLiu.Net\LearnAspnetCore\LearnAspnetCore.WebApplication\bin\Debug\netcoreapp2.0\LearnAspnetCore.WebApplication.runtimeconfig.json
+C:\MrLiu.Net\LearnAspnetCore\LearnAspnetCore.WebApplication\bin\Debug\netcoreapp2.0\LearnAspnetCore.WebApplication.runtimeconfig.dev.json
+C:\MrLiu.Net\LearnAspnetCore\LearnAspnetCore.WebApplication\bin\Debug\netcoreapp2.0\LearnAspnetCore.WebApplication.dll
+C:\MrLiu.Net\LearnAspnetCore\LearnAspnetCore.WebApplication\bin\Debug\netcoreapp2.0\LearnAspnetCore.WebApplication.pdb
+C:\MrLiu.Net\LearnAspnetCore\LearnAspnetCore.WebApplication\obj\Debug\netcoreapp2.0\LearnAspnetCore.WebApplication.csprojResolveAssemblyReference.cache
+C:\MrLiu.Net\LearnAspnetCore\LearnAspnetCore.WebApplication\obj\Debug\netcoreapp2.0\LearnAspnetCore.WebApplication.csproj.CoreCompileInputs.cache
+C:\MrLiu.Net\LearnAspnetCore\LearnAspnetCore.WebApplication\obj\Debug\netcoreapp2.0\LearnAspnetCore.WebApplication.AssemblyInfoInputs.cache
+C:\MrLiu.Net\LearnAspnetCore\LearnAspnetCore.WebApplication\obj\Debug\netcoreapp2.0\LearnAspnetCore.WebApplication.AssemblyInfo.cs
+C:\MrLiu.Net\LearnAspnetCore\LearnAspnetCore.WebApplication\obj\Debug\netcoreapp2.0\LearnAspnetCore.WebApplication.dll
+C:\MrLiu.Net\LearnAspnetCore\LearnAspnetCore.WebApplication\obj\Debug\netcoreapp2.0\LearnAspnetCore.WebApplication.pdb
